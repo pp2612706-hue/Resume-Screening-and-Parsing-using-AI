@@ -136,6 +136,7 @@ This project highlights how AI can assist in resume screening and candidate rank
 ## Author
 
 Preeti
+
 AI & Data Analytics Student
 Focused on AI in HR, Analytics, and Business Intelligence
 
